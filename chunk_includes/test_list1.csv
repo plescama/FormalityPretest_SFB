@@ -1,0 +1,84 @@
+﻿item,itemType,context1,context2,critical,grammatical_match,socstat_critical,socstat_context,register_match,item,type,list
+0.1,practice,Nach einem erfolgreichen Tag im Job wollte Lena feiern.,Sie sagte zu dem Kellner:,Holen Sie mir bitte einen Rotwein aus dem Keller!,xxx,xxx,xxx,xxx,0.1,practice,test
+0.2,practice,Am Freitagabend war es endlich soweit.,Mario ging vorfreudig zur Bar:,Dort konnte man gute Cocktails trinken.,xxx,xxx,xxx,xxx,0.2,practice,test
+0.3,practice,Die Ermittler wollten ein besseres Verständnis über die Ausschreitungen gewinnen.,Im Bericht stand:,Den Demonstranten observiert die Polizistin.,xxx,xxx,xxx,xxx,0.3,practice,test
+52,filler,Der Eintritt in die Armee war schwierig für die jüngsten Rekruten.,Es gab einen Turner in der Halle:,Der unerfahrene Jockey wird heute alle überraschen.,xxx,xxx,xxx,xxx,82,filler,1
+57,filler,Die Ermittler wollten ein besseres Verständnis über die Ausschreitungen gewinnen.,Erleichtert erfuhr der Vater:,Die Hausbesitzerin vermietete der Tochter gerne das Zimmer.,xxx,xxx,xxx,xxx,77,filler,1
+18,critical,Die Kontroverse wurde in der Vostandssitzung thematisiert.,Der Vorstandsvorsitzende propagierte in der Sitzung:,Der Ausbilder protegierte die Künstlerin. ,yes,high,high,match,18,critical,1
+33,critical,Nach dem Gerichtsprozesses wurde der Verdacht bestätigt.,Die Repräsentanten verifizierten den Eklat:,Der Säufer peinigte den Schwindler.,yes,high,high,match,33,critical,1
+42,filler,Am Tatort wurden Augenzeugen befragt.,Verärgert kommentierte die Stylistin:,Dem Angestellten erteilte der Chef einen schwierigen Auftrag.,xxx,xxx,xxx,xxx,72,filler,1
+29,critical,"Es war nicht unkompliziert, die Nachtruhe auf dem Grundstück zu wahren.",Die Hofdame gestand gegenüber der Gouvernante:,Der Wanderer quälte den Nachtportier.,yes,high,high,match,29,critical,1
+15,critical,Im Bundesheer war stets äußerste Disziplin gefordert.,Der Offizier verzeichnete im Register:,Der Soldat denunzierte den Wachmann.,yes,high,high,match,15,critical,1
+1,critical,Jemand hatte die Polizei benachrichtigt.,Der Polizeikommissar vermerkte in der Akte:,Der Trinker diffamierte den Taxifahrer.,yes,high,high,match,1,critical,1
+49,filler,Beim Pferderennen wurden wie immer Wetten abgschlossen.,Im Bericht stand:,Der Pilot landete überraschenderweise ohne Probleme.,xxx,xxx,xxx,xxx,51,filler,1
+47,filler,Bei der Versteigerung kam es zu einem Tumult.,In der Familie sprach sich um:,Der Funktionär gab der Sekretärin eine schwere Aufgabe.,xxx,xxx,xxx,xxx,61,filler,1
+11,critical,Für die anstehende Festlichkeit wurde ein neues Porzellan-Service benötigt.,Die Dame bemerkte im Porzellangeschäft:,Die Verkäuferin taxierte das Kind.,yes,high,high,match,11,critical,1
+69,filler,"Es war kein Wunder, dass der Boss sauer war.",Die Börsenmaklerin diskutierte mit dem Kunden:,Heute wird es abwechslend regnen und hageln.,xxx,xxx,xxx,xxx,74,filler,1
+28,critical,Die Familiengeschichte war durchaus dramatisch.,Die Erziehungsberechtigten erzählten dem Nachfahren:,Der Bruder hinterging den Onkel.,yes,high,high,match,28,critical,1
+8,critical,Während der letzten Meisterschaften fand ein Skandal statt.,Die Juroren verlasen ihr Votum:,Der Sporttaucher täuschte den Brustschwimmer.,yes,high,high,match,8,critical,1
+46,filler,Bei der ersten Lesung des brandneuen Bestsellers war viel los. ,In der Firma wusste jeder:,"Der Friseur, der mein Geschäft übernahm, ist sehr faul.",xxx,xxx,xxx,xxx,53,filler,1
+26,critical,Vor dem Veranstaltungsort wurde über das Konzert diskutiert.,Die Empfangsdame verkündigte der Gesellschaft:,Der Rocksänger beredete den Schlagzeuger.,yes,high,high,match,26,critical,1
+12,critical,Die Professorin erlebte vor der Sprechstunde einen Zwischenfall.,Die Akademikerin bedauerte in der Konversation:,Der Passant schmähte den Obdachlosen.,yes,high,high,match,12,critical,1
+63,filler,Die recht erstaunlichen Geschichten der Augenzeugen wurden dokumentiert.,Die Nachrichtensprecherin sagte:,Die Witwe vermacht ihr Vermögen dem Roten Kreuz.,xxx,xxx,xxx,xxx,71,filler,1
+10,critical,Die Autowerkstatt hatte eine empörte Kundenbeschwerde erhalten.,Der Werkstattinhaber bekundete bestürzt:,Der Autobesitzer belästigte den Mechaniker.,yes,high,high,match,10,critical,1
+37,critical,In der Personalabteilung wurde in der Regel jedes Verhalten erfasst.,Die Beamtin verschriftlichte hinsichtlich des Sachverhalts:,Der Dekan verunglimpfte den Kanzler.,yes,high,high,match,37,critical,1
+60,filler,Die Leistung in dieser Spielsaison war im Vergleich zur letzten außergewöhnlich gut.,Die Trainerin war sehr ehrgeizig:,Die Medizinerin operierte den Verunglückten.,xxx,xxx,xxx,xxx,73,filler,1
+65,filler,Die Sekretärin hatte sich mit einem Anliegen an ihre Vorgesetzte gewandt.,Die Managerin konstatierte:,"Es war der Bösewicht, den der Erpresser fesselte.",xxx,xxx,xxx,xxx,67,filler,1
+35,critical,Gestern geschah eine Streitigkeit.,Die Aufsichtsbehörde postulierte die Erkenntnis:,Der Radprofi marterte den Rennfahrer.,yes,high,high,match,35,critical,1
+3,critical,In der Schule gab es einen Regelverstoß.,Der Schuldirektor begründete in dem Verweis:,Der Sportlehrer tyrannisierte den Wettläufer.,yes,high,high,match,3,critical,1
+23,critical,Während des Konzertes ereignete sich ein Fiasko.,Der Dirigent raunte während der Darbietung:,Der Geiger stieß den Sänger.,yes,high,high,match,23,critical,1
+30,critical,"Den Kriminellen war nicht bewusst, dass sie ausspioniert wurden.",Der Gesetzeshüter protokollierte den Streit:,Der Verbrecher monierte den Kontaktmann.,yes,high,high,match,30,critical,1
+75,filler,In der Modebranche ging es wild zu.,Der Fan beteuerte:,"Sie befürchteten, der gierige Politiker würde die Wahl gewinnen.",xxx,xxx,xxx,xxx,50,filler,1
+40,critical,Am Ende des Prozesses war das Schicksal des Angeklagten klar.,Die Richter urteilten souverän:,Der Barkeeper rügte den Weinkenner.,yes,high,high,match,40,critical,1
+59,filler,"Die Kundin, welche die Bäckerei soeben betreten hatte, war unsympathisch.",Eine ältere und eine jüngere Frau unterhielten sich:,Die Malerin verwendete sehr kräftige Farben.,xxx,xxx,xxx,xxx,62,filler,1
+78,filler,Lisa hatte ein Lieblingsmärchen.,Der Bericht hielt fest:,Unsere Doppelagentin überwachte den Anführer.,xxx,xxx,xxx,xxx,49,filler,1
+24,critical,Die Gäste waren erstaunt über die Mitteilungsfreudigkeit der Gastgeber.,Die Hausherren debattierten die Novität:,Der Gärtner betörte den Gehilfen.,yes,high,high,match,24,critical,1
+13,critical,Im noblen Sternerestaurant ergab sich letztens ein Debakel.,Der Gentleman observierte beim Eintreten:,Der Lokalbesitzer maßregelte den Kellner.,yes,high,high,match,13,critical,1
+64,filler,Die Rekruten wünschten sich eine Pause nach dem gestrigen Training.,Die Mutter sagte zu ihrem Sohn:,"Er war derjenige, den der Trainer intensiv beobachtete.",xxx,xxx,xxx,xxx,81,filler,1
+72,filler,Im Wartezimmer war es ziemlich laut.,Der Nachrichtensprecher sagte:,Mein Chauffeur soll das Auto steuern und nicht quatschen!,xxx,xxx,xxx,xxx,44,filler,1
+5,critical,Das Volk wurde schon damals über die Sachlage informiert.,Der Delegierte übersandte die amtliche Botschaft:,Der Bischof tadelte den Herrscher.,yes,high,high,match,5,critical,1
+77,filler,Jahre nach den Ermittlungen stieß man auf das Protkoll des Kriminalfalls.,Der Chefarzt und die Oberärztin trafen sich zum Essen:,"Sie war besorgt, dass die Aktien an Wert verlieren würden.",xxx,xxx,xxx,xxx,66,filler,1
+41,filler,Alle im Büro waren an der Wettervorhersage interessiert.,Verärgert vermutete der Polizist:,Das Essen der Fluggesellschaft ist nicht mehr so gut.,xxx,xxx,xxx,xxx,80,filler,1
+17,critical,Das Fechtturnier verlief wahrlich spektakulär.,Die Zuseherschaft beobachtete fieberhaft:,Der Fechter bekämpfte den Gegner.,yes,high,high,match,17,critical,1
+34,critical,"Die Gefängniswache hatte äußerste Schwierigkeiten, die Unruhen zu bändigen. ",Der Bevollmächtigte dokumentierte die Furore:,Der Raufbold vertrimmte den Häftling.,yes,high,high,match,34,critical,1
+80,filler,Nach dem Konzert der Sängerin gab es eine Meet-and-Greet-Session hinter der Bühne.,Der Barbesitzer jammerte:,Wir haben dich so angefeuert.,xxx,xxx,xxx,xxx,69,filler,1
+74,filler,In der Mannschaft kam es immer wieder zu Streitigkeiten.,Der Kommandant lachte:,Morgen wird es nicht regnen.,xxx,xxx,xxx,xxx,45,filler,1
+48,filler,Beim Ärztekongress wurden Erfahrungen geteilt.,Im Verein war allen bekannt:,Der Modeschöpfer gab ihnen keine Aufträge mehr.,xxx,xxx,xxx,xxx,64,filler,1
+56,filler,Die Details des Testaments wurden ausführlich dokumentiert.,Erleichtert sah der Kontrollturm:,Die Diebin entriss dem Passanten die Tasche.,xxx,xxx,xxx,xxx,78,filler,1
+51,filler,Das Nachrichtenbulletin enthielt Warnungen von zahlreichen Meteorologen.,Gut gelaunt verriet der Experte:,Der Tellerwäscher zerbrach drei Tassen.,xxx,xxx,xxx,xxx,79,filler,1
+22,critical,Beim Mittagsmahl unterhielt man sich über die Ereignisse des Tages.,Der Adlige schilderte eine befremdliche Begebenheit:,Der Gastwirt korrumpierte den Winzer.,yes,high,high,match,22,critical,1
+71,filler,Gestern Nacht war der Sohn nicht nach Hause gekommen ohne Bescheid zu sagen.,Der Wanderer schnaufte:,Mein Bekannter zahlte dem Gentleman das Essen.,xxx,xxx,xxx,xxx,59,filler,1
+6,critical,Am Morgen wurde sorgfältig gearbeitet.,Der Bürgermeister proklamierte im Amtsblatt:,Der Detektiv überlistete den Gauner.,yes,high,high,match,6,critical,1
+36,critical,In dem Moment analysierte man minutiös den Budgetbericht.,Die Aufsichtsbehörde offenbarte in einem Dokument:,Der Immobilienbesitzer betrog den Makler.,yes,high,high,match,36,critical,1
+68,filler,"Es war ein einzigartiges Erlebnis, das Atelier einer Künstlerin zu betreten.",Die Chefärztin resümierte:,"Es war ein Tennisprofi, der das Training übernahm.",xxx,xxx,xxx,xxx,75,filler,1
+9,critical,Der Vorwurf des Reisenden wurde im Reisebüro thematisiert.,Der Generalsekretär dementierte im Report:,Der Reiseleiter erspähte den Einzelgänger.,yes,high,high,match,9,critical,1
+53,filler,Der Kunde war zu einem Beratungsgespräch eingeladen worden.,Es gab einen Torwart und einen Stürmer im Team:,Der wütende Torwart wurde vom Stürmer beschimpft.,xxx,xxx,xxx,xxx,43,filler,1
+27,critical,Auf dem Militärschiff gab es zunehmend Spannungen.,Die Wehrmänner kommunizierten mit dem Admiral:,Der Kapitän verhöhnte den General.,yes,high,high,match,27,critical,1
+19,critical,Man zweifelte an den ärztlichen Heilkräften.,Der Hofmeister verlautbarte ohne Pietät:,Der Priester indoktrinierte den Hausarzt.,yes,high,high,match,19,critical,1
+16,critical,Eine höhere Instanz evaluierte die Streiterei.,Der Vorstand verbuchte im Protokoll:,Der Radfahrer behelligte den Autofahrer.,yes,high,high,match,16,critical,1
+44,filler,Aufgrund von Nebel waren die Landebahnen am Flughafen kaum sichtbar.,Schlecht gelaunt erzählte die Großmutter:,Der Auktionär giftete den Geschäftsmann an.,xxx,xxx,xxx,xxx,56,filler,1
+58,filler,Die Erwartungen des Publikums an die Theateraufführung waren hoch.,Erfreut widersprach der Buchhalter dem Vermieter:,Die Kundin bediente er mit alten Brötchen.,xxx,xxx,xxx,xxx,70,filler,1
+7,critical,Derzeit forschte die Universität über Kriminalgeschichte.,Die Historikerin paraphrasierte in dem Traktat:,Der Kriminalbeamte übervorteilte den Raubmörder.,yes,high,high,match,7,critical,1
+70,filler,"Es war kein Wunder, dass der Boss sauer war..",Die Anwältin notierte:,"Ich sah, wie der Pirat den Kapitän als Geisel nahm.",xxx,xxx,xxx,xxx,74,filler,1
+54,filler,"Der Vermieter der Altbauwohnung meinte, diesen Monat keine Miete erhalten zu haben.",Es gab einen Kronprinzen und eine Prinzessin:,Die Beamtin bestach der Fabrikbesitzer.,xxx,xxx,xxx,xxx,55,filler,1
+38,critical,Während der gestrigen Ausschreitungen waren die Einsatzkräfte gnadenlos.,Die Polizeidirektorin referierte die Rivalität:,Der Polizist inhaftierte die Aktivistin.,yes,high,high,match,38,critical,1
+67,filler,Durch das gesamte Konzerthaus klingt plötzlich ein schriller Ton.,Die Firmenchefin ordnet an:,"Es war der Dachdecker, den wir beschenkten.",xxx,xxx,xxx,xxx,83,filler,1
+73,filler,In der allgemeinen Sporthalle trainierten mehrere Leute gleichzeitig.,Der Kommandant lachte:,"Mein Freund, der Buchautor, signiert dem Fan sein Buch.",xxx,xxx,xxx,xxx,48,filler,1
+61,filler,Die Nachbarn von nebenan nehmen die Familienehre sehr ernst.,Die Operndiva hat geschrien:,Die Mieterin überwies doch die fällige Miete!,xxx,xxx,xxx,xxx,76,filler,1
+14,critical,Die Meisterprüfung in der renommierten Werkstatt war erbarmungslos.,Der Begutachter verbreitete anmutig:,Der Meister prüfte den Lehrling.,yes,high,high,match,14,critical,1
+43,filler,"Auf der Parkbank saß immer ein Herr, der Geschichten von früher erzählte.",Unbeeindruckt kommentierte der Reisende:,Den Demonstranten observiert die Polizistin.,xxx,xxx,xxx,xxx,65,filler,1
+66,filler,"Die Stewardess fragte die Passagiere, ob alles in Ordnung sei.",Die Kolumnistin notierte nach der Tat:,"Es war der Chefarzt, der die Oberärztin anlachte.",xxx,xxx,xxx,xxx,60,filler,1
+39,critical,Die Vertretung wurde zu einer offiziellen Stellungnahme gedrängt.,Das Konsulat überlieferte den Rapport:,Der Fremdenführer belog die Reisegruppe.,yes,high,high,match,39,critical,1
+50,filler,"Da der Chaffeur sich mit der Beifahrerin unterhält, übersieht er die grüne Ampel.",Im Atelier konnte man sehen:,Der Schauspieler erschien in seiner letzten Vorstellung.,xxx,xxx,xxx,xxx,68,filler,1
+32,critical,Das Fehlverhalten wurde ausführlich protokolliert.,Der Professorenrat debattierte über den Zwist:,Der Rektor fixierte den Schüler.,yes,high,high,match,32,critical,1
+25,critical,Nach dem Ringkampf schrieb die Presse über den neu entdeckten Sportler.,Die Publizistin formulierte in dem Essay:,Der Trainer inspizierte den Ringkämpfer.,yes,high,high,match,25,critical,1
+79,filler,"Marthas Vater machte sich Sorgen, ob sie das WG-Zimmer bekommen würde.",Der Bariton tönt:,Wir haben dich gestern überall gesucht!,xxx,xxx,xxx,xxx,57,filler,1
+62,filler,"Die Polizei war am Tatort, aber die Beweislage war schwach.",Die Näherin und der Näher waren besorgt:,Die vier Leichen hat der Verbrecher sehr schnell beseitigt.,xxx,xxx,xxx,xxx,58,filler,1
+55,filler,Die Angestellten in der Bar waren ziemlich ungeschickt.,Es gab einen Angestellten und eine Bürokauffrau in der Firma:,Die Beamtin bestach der Fabrikbesitzer.,xxx,xxx,xxx,xxx,63,filler,1
+4,critical,Die Produktion bot brisanten Diskussionsstoff.,Die Kultursenatorin artikulierte im Jahresbericht:,Die Regisseurin koste den Hauptdarsteller.,yes,high,high,match,4,critical,1
+20,critical,Die monarchischen Beziehungen wurden gewissenhaft dokumentiert.,Der Landesherr verewigte auf dem Pergament:,Der Kaiser verwöhnte den Herzog.,yes,high,high,match,20,critical,1
+21,critical,Die Nachbarschaftswache besprach die neuesten Vorkommnisse.,Der Herold verkündete den Bürgern:,Der Landwirt reizte den Obsthändler.,yes,high,high,match,21,critical,1
+2,critical,Kürzlich wurde ein Gerichtsprozess eingeleitet.,Der Gefängnisvorstand bezeugte in der Anhörung:,Der Skinhead züchtigte den Häftling.,yes,high,high,match,2,critical,1
+45,filler,Bald standen die Volleyball-Meisterschaften an.,In der Firma wusste jeder:,"Der Familienpatriarch vermutet, das Baby sei nicht seins.",xxx,xxx,xxx,xxx,47,filler,1
+31,critical,Das bekannte Theaterstück war recht unkonventionell.,Der Theaterdirektor präzisierte in dem Memoir:,Der Bengel karikierte den Flegel.,yes,high,high,match,31,critical,1
+76,filler,"In der Stadt gab es Firma, die neu gegründet worden war.",Der Direktor war aufgeregt:,"Sie übte dreimal am Tag, um den Pokal zu gewinnen.",xxx,xxx,xxx,xxx,46,filler,1
